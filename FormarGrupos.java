@@ -1,7 +1,6 @@
 import java.util.Random;
 import java.util.Arrays;
 public class FormarGrupos {
-    // A Function to generate a random permutation of arr[]
     static String[] randomize( String arr[])
     {
         int n = arr.length;
